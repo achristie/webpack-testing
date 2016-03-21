@@ -1,0 +1,24 @@
+{
+  "name": "webpack-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achristie/webpack-testing.git"
+  },
+  "author": "andrew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/achristie/webpack-testing/issues"
+  },
+  "homepage": "https://github.com/achristie/webpack-testing#readme"
+}
